@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(63, 0, 222);
+}
+#score{
+    margin-left: 20px;
+    font-size: 30px;
+    color: white;
+}
+#timer{
+    margin-right: 20px;
+    font-size: 30px;
+    color: white;
+    float: right;
+}
+#Sketchname{
+    color: red;
+    font-size: 40px;
+    background-color: yellow;
+}
+p{
+    color:white;
+    font-size: 35px;
+}
+h1{
+    font-size:45px;
+    font-weight: bolder;
+    background-color: antiquewhite ;
+    width: 25%;
+}
+span{
+    display: inline;
+}
+button{
+    float: right;
+    margin: 0;
+}
